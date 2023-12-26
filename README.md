@@ -13,7 +13,5 @@
 		b. accordion <br>
 		c. form <br>
 
-#### Highest lines of code I've written in a single project so far. 
-
 Figma File Link: [Figma](https://www.figma.com/file/Tkt4YqDUm8Fr0b2OUO3hwo/Portfolio-Template-(Community)?node-id=0%3A1236) <br>
 Figma to HTML: [Portfolio](https://nazsakib.github.io/figma-portfolio-template/)
